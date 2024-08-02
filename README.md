@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hola a todos 👋
+
+> Mi nombre es ***Fanny***
+
+>  estoy comenzando una nueva etapa aprendiendo **programación**.
+
+![Shiva](https://cdn-icons-png.flaticon.com/512/4600/4600417.png)
+
 
 <!--
 **fannytartiere/fannytartiere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
