@@ -2,7 +2,7 @@
 
 > Mi nombre es ***Fanny***
 
->  estoy comenzando una nueva etapa aprendiendo **programación**.
+> Estoy comenzando una nueva etapa aprendiendo **programación**.
 
 ![Shiva](https://cdn-icons-png.flaticon.com/512/4600/4600417.png)
 
